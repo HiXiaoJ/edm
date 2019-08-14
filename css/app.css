@@ -1,0 +1,49 @@
+body, html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-size-adjust: none; }
+
+.header .header-oneCent {
+  background: linear-gradient(to right, #0171c7, #01b1a9, #00fb86); }
+
+.header .off90 {
+  background-color: #0170c7; }
+
+.footer .oneCent-footer {
+  background: linear-gradient(to right, #0171c7, #00b9a5, #00fc85); }
+
+.footer .off90 {
+  background-color: #0170c7; }
+
+.oneCent-title {
+  font-size: 24px;
+  color: #000; }
+
+.oneCent-newPrice {
+  font-size: 51px;
+  color: #ff0000; }
+
+.oneCent-oldPrice {
+  font-size: 28px;
+  text-decoration: line-through;
+  color: #a7a5a3; }
+
+th.columns {
+  padding-bottom: 0; }
+
+p {
+  margin: 0; }
+
+.white {
+  color: #ffffff; }
+
+.text-center {
+  text-align: center; }
+
+a {
+  text-decoration: none; }
+
+img {
+  border: 0px none;
+  width: 100%;
+  display: block; }
